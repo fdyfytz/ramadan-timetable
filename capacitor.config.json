@@ -1,6 +1,6 @@
 {
-  "appId": "io.ionic.quran",
-  "appName": "quran",
+  "appId": "io.ionic.ramadantime",
+  "appName": "ramadantime",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",
